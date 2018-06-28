@@ -1,0 +1,39 @@
+#grey_header {
+    height: 12vh;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+}
+#blue_box {
+    background-color: #3374dd;
+    height: 80%;
+    width: 70px;
+    margin-left: 20px;
+}
+#blue_bar {
+    height: 12.5vh;
+    background-color: #3374dd;
+}
+#aqua_bar {
+    height: 12.5vh;
+    background-color: aqua;
+}
+#yellow_green_bar {
+    height: 12.5vh;
+    background-color: yellowgreen;
+}
+#yellow_bar {
+    height: 12.5vh;
+    background-color: yellow;
+}
+#white_text {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    width: 75%;
+    font-family: sans-serif;
+    line-height: 160%;
+}
